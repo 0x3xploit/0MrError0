@@ -4,12 +4,5 @@ Hello fellow hackers! 👋 I'm Pratham Naik, a cybersecurity enthusiast who thri
 
 ## About Me
 
-I have a deep passion for understanding the intricate details of assembly language, reverse engineering, and exploiting vulnerabilities. My journey in the cybersecurity realm has been nothing short of an exciting adventure.
+![image](https://github.com/0MrError0/0MrError0/assets/102399357/e72860b5-7eb9-4345-9bba-75171c3eb4e2)
 
-## Skills
-
-### Assembly x86_64
-### C,C++
-### Python
-### Java
-### Rust
