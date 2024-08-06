@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MrError</h1>
-<h3 align="center">A passionate developer from [Your Country]</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0MrError0&color=brightgreen" alt="Profile views">
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **[Technology/Skill]**
 
-- 📫 How to reach me **[your-email@example.com]**
+- 📫 How to reach me **naikpratham1212@gmail.com**
 
 - ⚡ Fun fact **I love [fun activity or interesting fact about you]**
 
@@ -24,8 +24,6 @@
   <a href="https://www.linkedin.com/in/pratham-naik-a0b794221/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/your-twitter" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
