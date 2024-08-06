@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/0MrError0?tab=followers">
-    <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" alt="GitHub Badge">
+    <img src="https://img.shields.io/github/followers/0MrError0?label=Followers&style=social" alt="GitHub Badge">
   </a>
   <a href="https://twitter.com/your-twitter">
     <img src="https://img.shields.io/twitter/follow/your-twitter?label=Twitter&style=social" alt="Twitter Badge">
