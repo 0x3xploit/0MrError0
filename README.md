@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">A passionate developer from Your Country</h3>
+<h1 align="center">Hi 👋, I'm Pratham Naik</h1>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
-  <a href="https://github.com/your-username?tab=followers">
+  <a href="https://github.com//0MrError0?tab=followers">
     <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" alt="GitHub Badge">
   </a>
   <a href="https://twitter.com/your-twitter">
