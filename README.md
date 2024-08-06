@@ -53,19 +53,12 @@
 <br><br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="your-username" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0MrError0&show_icons=true&theme=radical" alt="MrError" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="your-username" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=your-username&theme=dracula" alt="your-username" />
-</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=your-username" alt="your-username" />
+    <img src="https://github-profile-trophy.vercel.app/?username=0MrError0" alt="your-username" />
   </a>
 </p>
