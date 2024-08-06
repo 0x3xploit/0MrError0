@@ -1,15 +1,8 @@
 # MrError CTF Bio
 
-### Hello fellow hackers! 👋 I'm Pratham Naik, a cybersecurity enthusiast who thrives on the thrill of Capture The Flag challenges. Here's a bit about me and my skills in the fascinating world of CTFs:
-
-
-![758X](https://github.com/0MrError0/0MrError0/assets/102399357/175b7b4b-c892-4c9e-a00b-e609ee30e54f)
-
-
-## About Me
-
-![image](https://github.com/0MrError0/0MrError0/assets/102399357/e72860b5-7eb9-4345-9bba-75171c3eb4e2)
-
-
-
-![giphy](https://github.com/user-attachments/assets/94d01400-dcbc-4ba9-a102-b7faaa83ac20)
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
