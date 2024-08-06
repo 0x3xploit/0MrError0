@@ -10,3 +10,6 @@
 
 ![image](https://github.com/0MrError0/0MrError0/assets/102399357/e72860b5-7eb9-4345-9bba-75171c3eb4e2)
 
+
+
+![giphy](https://github.com/user-attachments/assets/94d01400-dcbc-4ba9-a102-b7faaa83ac20)
