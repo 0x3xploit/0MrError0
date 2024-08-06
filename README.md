@@ -1,2 +1,72 @@
-# MrError CTF Bio
+<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h3 align="center">A passionate developer from Your Country</h3>
 
+<p align="center">
+  <a href="https://github.com/your-username?tab=followers">
+    <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" alt="GitHub Badge">
+  </a>
+  <a href="https://twitter.com/your-twitter">
+    <img src="https://img.shields.io/twitter/follow/your-twitter?label=Twitter&style=social" alt="Twitter Badge">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&color=brightgreen" alt="Profile views">
+</p>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+
+- 🔭 I’m currently working on **Project Name**
+
+- 🌱 I’m currently learning **Technology/Skill**
+
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 💬 Ask me about **Technology/Skill**
+
+- 📫 How to reach me **your-email@example.com**
+
+- ⚡ Fun fact **I love [fun activity or interesting fact about you]**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="your-linkedin" height="30" width="40" /></a>
+  <a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="your-twitter" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/your-stackoverflow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="your-stackoverflow" height="30" width="40" /></a>
+  <a href="https://instagram.com/your-instagram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="your-instagram" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <!-- Add more icons as needed -->
+</p>
+
+<h3 align="left">Support:</h3>
+<p>
+  <a href="https://www.buymeacoffee.com/your-username"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a>
+  <a href="https://ko-fi.com/your-username"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi" /></a>
+</p>
+<br><br><br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="your-username" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="your-username" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=your-username&theme=dracula" alt="your-username" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=your-username" alt="your-username" />
+  </a>
+</p>
