@@ -7,9 +7,8 @@
 I'm a passionate **cybersecurity researcher** specializing in **Android security** and **exploit development**. I love solving real-world challenges and participating in CTFs. Currently, and building my knowledge in **binary exploitation**.
 
 
-<a href="https://tryhackme.com/p/1147043" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/1147043.png" alt="TryHackMe Badge">
-</a>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1147043" style='border:none;'></iframe>
+
 
 
 
